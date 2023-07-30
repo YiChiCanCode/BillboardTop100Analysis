@@ -19,6 +19,11 @@ To set up the BillboardTop100Analysis project, follow these steps:
 # Usage
 After installation, you can use the project as follows. Upload the notebook to any online colab site (e.g. Google Colab), and run the whole file.
 
+# Analysis Result
+![Example Image](example1.png)
+![Example Image](example2.png)
+
+
 # Features
 Fetch Billboard Top 100 chart data.
 Fetch additional song data using the Spotify Web API.
