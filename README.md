@@ -1,14 +1,6 @@
 # BillboardTop100Analysis
 The BillboardTop100Analysis project is a Python-based data analysis tool that uses web scraping and the Spotify Web API to analyze the current Billboard Top 100 songs. It fetches details about the songs, analyzes their musical features, and visualizes the data in an interactive manner.
 
-# Table of Contents
-Installation
-Usage
-Features
-Contributing
-License
-Installation
-
 # Set up
 To set up the BillboardTop100Analysis project, follow these steps:
 1. Clone this repository to your local machine using git clone https://github.com/YiChiCanCode/BillboardTop100Analysis.git
@@ -22,7 +14,6 @@ After installation, you can use the project as follows. Upload the notebook to a
 # Analysis Result
 ![Example Image](example1.png)
 ![Example Image](example2.png)
-
 
 # Features
 Fetch Billboard Top 100 chart data.
